@@ -16,7 +16,10 @@
 			<!--start testimonial single-->
 			<div class="testi-single">
 				<div class="client-comment">
-					<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat.</p>
+					<p>
+						Very Useful And Great Plugin!
+						A great collections of Worldwide radio stations.
+					</p>
 					<p><span><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></span></p>
 				</div>
 				<div class="client-details">
@@ -33,7 +36,7 @@
 			<!--start testimonial single-->
 			<div class="testi-single">
 				<div class="client-comment">
-					<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat.</p>
+					<p>Great plugin for Radio station based website. Very easy to maintain and use.</p>
 					<p><span><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></span></p>
 				</div>
 				<div class="client-details">
@@ -50,7 +53,7 @@
 			<!--start testimonial single-->
 			<div class="testi-single">
 				<div class="client-comment">
-					<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat.</p>
+					<p>Amazing plugin. I really love the plugin and their support.</p>
 					<p><span><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></span></p>
 				</div>
 				<div class="client-details">

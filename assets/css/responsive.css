@@ -16,7 +16,7 @@
     #features-area {
         margin-bottom: 60px;
     }
-    #why-choose-area,
+    #pricing-area,
     #video-area,
     #contact-area {
         background-position: center;
@@ -109,7 +109,7 @@
     .why-choose-img img {
         max-width: 230px;
     }
-    #why-choose-area {
+    #pricing-area {
         padding: 160px 0 70px;
         background-size: cover;
         background-position: center
@@ -319,7 +319,7 @@
         background-size: cover;
         margin-bottom: 20px
     }
-    #why-choose-area {
+    #pricing-area {
         background-position: top;
         background-size: cover;
         padding: 130px 0 40px
@@ -388,7 +388,7 @@
         padding: 8px 15px;
         margin: 0
     }
-    #product-area {
+    #docs-area {
         padding: 80px 0 30px;
     }
     .prod-img {
@@ -582,7 +582,7 @@
     .features-single i {
         text-align: center
     }
-    #why-choose-area {
+    #pricing-area {
         background-position: top;
         background-size: cover;
         padding: 130px 0 40px
@@ -654,7 +654,7 @@
         margin: 0;
         font-size: 12px
     }
-    #product-area {
+    #docs-area {
         padding: 80px 0 30px;
     }
     #testimonial-area {
@@ -857,7 +857,7 @@
     .features-single i {
         text-align: center
     }
-    #why-choose-area {
+    #pricing-area {
         background-position: top;
         background-size: cover;
         padding: 130px 0 40px
@@ -925,7 +925,7 @@
         padding: 8px 15px;
         margin: 15px 0 0
     }
-    #product-area {
+    #docs-area {
         padding: 80px 0 30px;
     }
     #testimonial-area {

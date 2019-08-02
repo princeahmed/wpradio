@@ -1,4 +1,6 @@
-<?php get_header(); ?>
+<?php
+get_header();
+?>
 
 <!--start blog wrap-->
 <div class="blog-wrap">

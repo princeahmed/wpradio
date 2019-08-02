@@ -593,7 +593,7 @@ home newsletter two
     why choose area
 ---------------------------------------------------------------------------------------*/
 
-#why-choose-area {
+#pricing-area {
     padding: 130px 0 70px;
     background-image: url(../images/banner-2.png);
     background-repeat: no-repeat;
@@ -836,8 +836,16 @@ home newsletter two
     product area
 ---------------------------------------------------------------------------------------*/
 
-#product-area {
+#docs-area {
     padding: 95px 0 50px
+}
+
+#docs-area .col-md-6{
+	margin-bottom: 20px;
+}
+
+#docs-area .load-more-btn{
+	margin-bottom: -40px;
 }
 
 .product-single {
@@ -1133,6 +1141,10 @@ home newsletter two
     color: #325eff
 }
 
+.post-content h4 {
+	margin: 20px 0 10px;
+}
+
 .post-content h6 {
     font-weight: 600;
     font-size: 13px;
@@ -1152,6 +1164,20 @@ home newsletter two
 .post-content h6 small {
     padding: 0 6px;
     font-weight: 700
+}
+
+.post-content p {
+	font-size: 18px;
+	font-weight: normal;
+	margin-bottom: 25px;
+	line-height: 1.7;
+}
+
+.post-content ul {
+	list-style: square;
+	padding: 0 20px;
+	line-height: 2;
+	margin-bottom: 15px;
 }
 
 /*-------------------------------------------------------------------------------------

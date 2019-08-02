@@ -369,7 +369,7 @@
 	====================================*/
 </style>
 
-<section id="why-choose-area" data-scroll-index="2">
+<section id="pricing-area" data-scroll-index="2">
 	<div class="container">
 		<div class="row">
 			<!--end why chosse image-->
@@ -404,7 +404,7 @@
 					</ul>
 					<!-- Table Bottom -->
 					<div class="gprice-bottom">
-						<a class="g-button bordered radius" href="#"><i class="icofont-download"></i> Download Now</a>
+						<a class="g-button bordered radius" href="http://wordpress.org/plugins/wp-radio"><i class="icofont-download"></i> Download Now</a>
 						<p class="text">Download from <i class="icofont-brand-wordpress"></i>  wordpress.org</p>
 					</div>
 				</div>
@@ -436,7 +436,7 @@
 					</ul>
 					<!-- Table Bottom -->
 					<div class="gprice-bottom">
-						<a class="g-button bordered radius" href="#"><i class="icofont-cart-alt"></i> Buy Now</a>
+						<a class="g-button bordered radius" href="https://checkout.freemius.com/mode/dialog/plugin/4227/plan/6865/"><i class="icofont-cart-alt"></i> Buy Now</a>
 						<p class="text"><i class="icofont-ssl-security"></i>100% Secure Payment</p>
 					</div>
 				</div>

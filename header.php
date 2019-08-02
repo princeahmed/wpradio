@@ -66,7 +66,7 @@
 
 				<ul class="nav navbar-nav flex-row justify-content-center flex-nowrap download-btn ml-auto">
 					<li class="nav-item">
-						<a class="nav-link" href="#product-area"><i class="icofont-cart mr-1"></i> Buy Now</a></li>
+						<a class="nav-link" href="https://checkout.freemius.com/mode/dialog/plugin/4227/plan/6865/"><i class="icofont-cart mr-1"></i> Buy Now</a></li>
 				</ul>
 			</div>
 		</nav>

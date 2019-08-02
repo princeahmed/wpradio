@@ -14,7 +14,7 @@
 		<div class="row">
 			<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
 				<div class="contact-form">
-					<?php echo do_shortcode('[contact-form-7 id="21" title="Contact form 1"]'); ?>
+					<?php echo do_shortcode('[contact-form-7 id="5" title="Contact form 1"]'); ?>
 				</div>
 			</div>
 		</div>

@@ -20,8 +20,8 @@
 							WP Radio is Worldwide Radio Station Directory plugin for WordPress,
 							to listen live radio streaming of all the stations over the world.
 						</p>
-						<a href="#"><i class="icofont-ui-cart"></i> Buy Now</a>
-						<a href="#"><i class="icofont-eye-alt"></i> Check Demo</a>
+						<a href="https://checkout.freemius.com/mode/dialog/plugin/4227/plan/6865/"><i class="icofont-ui-cart"></i> Buy Now</a>
+						<a href="http://wpradio.ultimatefreehost.in"><i class="icofont-eye-alt"></i> Check Demo</a>
 					</div>
 				</div>
 			</div>

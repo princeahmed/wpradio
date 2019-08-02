@@ -5,7 +5,7 @@ function wpradio_register_post_types() {
 		register_post_type( 'wpradio_docs', array(
 		'labels'              => wpradio_get_posts_labels( __( 'Docs', 'wpradio' ), __( 'Doc', 'wpradio' ), __( 'Docs', 'wpradio' ) ),
 		'hierarchical'        => false,
-		'supports'            => array( 'title', 'editor' ),
+		'supports'            => array( 'title', 'editor', 'excerpt' ),
 		'public'              => true,
 		'show_ui'             => true,
 		'show_in_menu'        => true,

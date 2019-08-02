@@ -1,4 +1,4 @@
-<section id="product-area" data-scroll-index="4">
+<section id="docs-area" data-scroll-index="4">
 	<div class="container">
 		<div class="row">
 			<!--start section heading-->
@@ -16,7 +16,8 @@
 			<?php
 			$posts = get_posts( array(
 				'post_type'   => 'wpradio_docs',
-				'numberposts' => 6
+				'numberposts' => 6,
+				'order' => 'ASC',
 			) );
 
 			if ( ! empty( $posts ) ) {
@@ -32,9 +33,8 @@
 							</div>
 							<div class="prod-details">
 								<?php
-								$subtitle = get_post_meta( get_the_ID(), 'subtitle', true );
 
-								printf( '<h4 class="font-weight-light m-2">%s</h4>', $subtitle );
+								printf( '<h4 class="font-weight-light m-2">%s</h4>', get_the_excerpt() );
 
 								printf( '<a href="%s"><i class="icofont-eye-alt"></i> View</a>', get_permalink() );
 								?>

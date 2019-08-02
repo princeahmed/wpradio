@@ -16,6 +16,7 @@
 								$docs = get_posts( array(
 									'post_type'      => 'wpradio_docs',
 									'posts_per_page' => - 1,
+									'order' => 'ASC'
 								) );
 
 								if ( $docs ) {
