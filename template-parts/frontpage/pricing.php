@@ -421,7 +421,7 @@
 						<h2 class="g-title">PRO</h2>
 						<!-- Table Price -->
 						<div class="g-amount">
-							<p class="amount text-white"><span>$35.00</span></p>
+							<p class="amount text-white"><span>$39.99</span></p>
 						</div>
 					</div>
 					<!-- Table List -->
